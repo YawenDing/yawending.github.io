@@ -13,6 +13,13 @@ CV: [yawending.pdf](CV/yawending.pdf)
 
 [Link to My Google Scholor](https://scholar.google.com.sg/citations?hl=zh-CN&user=tFtU7NYAAAAJ)
 
+### Catch up with my husband as I can: Women’s decision-making power consequences of China’s poverty alleviation relocation program.
+This paper examines the impact of a large-scale poverty alleviation relocation program in China on women’s intra-household decision-making power. Specifically, we investigate how the timing of relocation affects this power by analyzing household survey data from 2019 and 2021. We employ an instrumental variable strategy to
+address potential reverse causality and selection bias. Our findings suggest that relocation has a significant positive effect on women’s relative decision-making power within households, which is largely due to increased control over decisions concerning their children’s education and social events. This impact is sustained and strengthens with longer durations of relocation. Mechanism analysis reveals that the relative increase in women’s decision-making power is primarily driven by the reduction of contracted woodland in relocated households and changes in women’s off-farm wages.
+
+[World Development, 106433 (2024).](https://doi.org/10.1016/j.worlddev.2023.106433)
+
+
 #### Memory of famine: The persistent impact of famine experience on food waste behavior
 
 The 1959–1961 Great Famine in China was one of the most devastating events in history and had long-term effects on economic behavior. This paper seeks to provide a novel explanation for heterogeneous food waste behaviors across age cohorts from the perspective of differing famine experiences. Based on 2004–2009 China Health and Nutrition Survey (CHNS) data, this paper constructs a difference-in-difference estimator to explore the long-term effects of the early-life famine experience of the household head on household food waste behavior in later life. The results indicate that the more serious famine that the household heads experienced in early life was, the less wasted food and lost calories per capita there were, especially for adolescence during the famine. The mechanism analysis shows that households whose heads experienced the 1959–1961 Great Famine in early life tend to save more than those whose heads did not. The findings contribute to a better understanding of the formation of preference and the variation in household food waste behaviors across age cohorts.
@@ -31,8 +38,10 @@ The demand of agricultural socialized services in smallholders’ farming： Evi
 
 Property right reform of rural collective operational assets: Current situation, process and influence. Rural Economy 12: 1-10. (In Chinese)
 
-#### Current working papers
+#### Working papers
 
-Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market.
+Ding, Y., Wang, X., Xu,H. Land reform and health endowments at birth. Under review.
+Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market. Ready to submit.
+The impact of of poverty alleviation relocation program on women’s economic autonomy. Working paper.
 
-China’s poverty alleviation and intra-household bargaining power. 
+
