@@ -11,14 +11,11 @@ CV: [yawending.pdf](CV/yawending.pdf)
 
 ## Publications
 
-[Link to My Google Scholor](https://scholar.google.com.sg/citations?hl=zh-CN&user=tFtU7NYAAAAJ)
-
 ### Catch up with my husband as I can: Women’s decision-making power consequences of China’s poverty alleviation relocation program.
 This paper examines the impact of a large-scale poverty alleviation relocation program in China on women’s intra-household decision-making power. Specifically, we investigate how the timing of relocation affects this power by analyzing household survey data from 2019 and 2021. We employ an instrumental variable strategy to
 address potential reverse causality and selection bias. Our findings suggest that relocation has a significant positive effect on women’s relative decision-making power within households, which is largely due to increased control over decisions concerning their children’s education and social events. This impact is sustained and strengthens with longer durations of relocation. Mechanism analysis reveals that the relative increase in women’s decision-making power is primarily driven by the reduction of contracted woodland in relocated households and changes in women’s off-farm wages.
 
 [World Development, 106433 (2024).](https://doi.org/10.1016/j.worlddev.2023.106433)
-
 
 #### Memory of famine: The persistent impact of famine experience on food waste behavior
 
@@ -43,5 +40,6 @@ Property right reform of rural collective operational assets: Current situation,
 Ding, Y., Wang, X., Xu,H. Land reform and health endowments at birth. Under review.
 Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market. Ready to submit.
 The impact of of poverty alleviation relocation program on women’s economic autonomy. Working paper.
+The impact of of poverty alleviation relocation program on biodiversity. In progress.
 
 
