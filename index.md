@@ -37,7 +37,7 @@ Property right reform of rural collective operational assets: Current situation,
 
 #### Working papers
 
-Ding, Y., Wang, X., Xu,H. Land reform and health endowments at birth. Under review.
+Land reform and health endowments at birth. Under review.
 
 Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market. Ready to submit.
 
