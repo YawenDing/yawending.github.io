@@ -3,7 +3,7 @@
 # Yawen Ding
 <img src="figure/ywding/ywding1.jpeg" width="60%">
 
-I am a PhD candidate at Peking University. My research interests lie in the domain of Development Economics and Agricultural Economics with a focused view on Poverty, Gender, and Land Reforms in rural China. My current research focuses on how China's Poverty Alleviation Relocation Program (PARP) affect women empowerment, such as women's non-farm employment and their relative decision-making power within the household. 
+I am a PhD Candidate in the China Center for Agricultural Policy at Peking University. My research interests lie in the domain of Development Economics and Agricultural Economics with a focused view on Poverty, Gender, and Land Reforms in rural China. My current research focuses on how China's Poverty Alleviation Relocation Program (PARP) affect women empowerment, such as women's non-farm employment and their relative decision-making power within the household. 
 
 Email: [1901111380@pku.edu.cn](mailto:yawen.ccap@pku.edu.cn)
 
