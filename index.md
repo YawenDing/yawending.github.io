@@ -1,49 +1,103 @@
-## Welcome to Yawen Ding's Page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Yawen Ding</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      max-width: 850px;
+      margin: auto;
+      padding: 2em;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    a {
+      color: #0645AD;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    nav {
+      margin-bottom: 30px;
+    }
+    nav a {
+      margin-right: 15px;
+      font-weight: bold;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .pub {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
 
-# Yawen Ding
+<nav>
+  <a href="#home">Homepage</a>
+  <a href="CV/yawending.pdf" target="_blank">CV</a>
+</nav>
 
-<img src="figure/ywding/ywding1.jpeg" width="60%">
+<h1 id="home">Yawen Ding</h1>
 
-I am a PhD Candidate in the China Center for Agricultural Policy at Peking University. My research interests lie in the domain of Development Economics and Agricultural Economics with a focused view on Poverty, Gender, and Land Reforms in rural China. My current research focuses on how China's Poverty Alleviation Relocation Program (PARP) affects women empowerment, such as women's non-farm employment and their relative decision-making power within the household. 
+<img src="figure/ywding/ywding1.jpeg" width="60%" alt="Yawen Ding photo" />
 
-Email: [1901111380@pku.edu.cn](mailto:yawen.ccap@pku.edu.cn)
+<p>
+  I am a PhD Candidate in the China Center for Agricultural Policy at Peking University. 
+  My research interests lie in Development Economics and Agricultural Economics, 
+  focusing on Poverty, Gender, and Land Reforms in rural China.
+</p>
 
-CV: [yawending.pdf](CV/yawending.pdf)
+<p>
+  My current research focuses on how China's Poverty Alleviation Relocation Program (PARP) 
+  affects women empowerment, such as women's non-farm employment and their relative decision-making power within the household.
+</p>
 
-## Publications
+<p>Email: <a href="mailto:yawen.ccap@pku.edu.cn">yawen.ccap@pku.edu.cn</a></p>
 
-#### Catch up with my husband as I can: Women’s decision-making power consequences of China’s poverty alleviation relocation program.
-This paper examines the impact of a large-scale poverty alleviation relocation program in China on women’s intra-household decision-making power. Specifically, we investigate how the timing of relocation affects this power by analyzing household survey data from 2019 and 2021. We employ an instrumental variable strategy to
-address potential reverse causality and selection bias. Our findings suggest that relocation has a significant positive effect on women’s relative decision-making power within households, which is largely due to increased control over decisions concerning their children’s education and social events. This impact is sustained and strengthens with longer durations of relocation. Mechanism analysis reveals that the relative increase in women’s decision-making power is primarily driven by the reduction of contracted woodland in relocated households and changes in women’s off-farm wages.
+<p><strong>CV:</strong> <a href="CV/yawending.pdf" target="_blank">Download PDF</a></p>
 
-[World Development, 106433 (2024).](https://doi.org/10.1016/j.worlddev.2023.106433)
+<h2>Publications</h2>
 
-#### Memory of famine: The persistent impact of famine experience on food waste behavior
+<div class="pub">
+  <strong>Catch up with my husband as I can:</strong> Women’s decision-making power consequences of China’s poverty alleviation relocation program.<br>
+  <a href="https://doi.org/10.1016/j.worlddev.2023.106433" target="_blank">World Development, 106433 (2024)</a>
+</div>
 
-The 1959–1961 Great Famine in China was one of the most devastating events in history and had long-term effects on economic behavior. This paper seeks to provide a novel explanation for heterogeneous food waste behaviors across age cohorts from the perspective of differing famine experiences. Based on 2004–2009 China Health and Nutrition Survey (CHNS) data, this paper constructs a difference-in-difference estimator to explore the long-term effects of the early-life famine experience of the household head on household food waste behavior in later life. The results indicate that the more serious famine that the household heads experienced in early life was, the less wasted food and lost calories per capita there were, especially for adolescence during the famine. The mechanism analysis shows that households whose heads experienced the 1959–1961 Great Famine in early life tend to save more than those whose heads did not. The findings contribute to a better understanding of the formation of preference and the variation in household food waste behaviors across age cohorts.
+<div class="pub">
+  <strong>Memory of famine:</strong> The persistent impact of famine experience on food waste behavior.<br>
+  <a href="https://doi.org/10.1016/j.chieco.2022.101795" target="_blank">China Economic Review, 101795 (2022)</a>
+</div>
 
-[China Economic Review, 101795 (2022).](https://doi.org/10.1016/j.chieco.2022.101795)
+<div class="pub">
+  <strong>Does rubber expansion hinder the migration of rural labor?</strong> Evidence from southwest China.<br>
+  <a href="http://dx.doi.org/10.1111/rode.12865" target="_blank">Review of Development Economics, 26(2), 1108–1131 (2022)</a>
+</div>
 
-#### Does rubber expansion hinder the migration of rural labor? Evidence from southwest China
+<div class="pub">
+  <strong>Other publications:</strong><br>
+  - The demand of agricultural socialized services in smallholders’ farming. *Journal of Agro-Forestry Economics and Management* 18(6): 795–802. (In Chinese)<br>
+  - Property right reform of rural collective operational assets. *Rural Economy* 12: 1–10. (In Chinese)
+</div>
 
-The expansion of agroforestry crops in South Asia has resulted in the reallocation of local agricultural resources, including labor force. Based on two-wave panel data collected from more than 600 smallholder rubber farmers in southwest China, this study examines the impacts of rubber expansion on the migration of rural labor. The results show that smallholders planting more rubber plantations have significantly fewer migrant family members and lower likelihood of migration, revealing a significantly negative effect of rubber cultivation on the migration of rural labor. Given that the migration of rural labor is a major trend in rural economic transformation, rubber farming appears to result in the resource curse in rubber planting areas. In addition, a positive interaction effect between rubber cultivation and the price of natural rubber on the migration of rural labor reveals that the resource curse effect of natural rubber decreases with the decrease in the price of natural rubber. A period with a relatively low price of natural rubber provides an opportunity to foster the migration of rural labor in rubber planting areas.
+<h2>Working Papers</h2>
 
-[Review of Development Economics, 26(2), 1108-1131 (2022).](http://dx.doi.org/10.1111/rode.12865)
+<ul>
+  <li><strong>Land reform and health endowments at birth.</strong> Under review.</li>
+  <li><strong>Windfall gains and household consumption:</strong> Regression discontinuity evidence from China’s housing market. Ready to submit.</li>
+  <li><strong>The impact of poverty alleviation relocation program on women’s economic autonomy.</strong> Working paper.</li>
+  <li><strong>The impact of poverty alleviation relocation program on biodiversity.</strong> In progress.</li>
+</ul>
 
-#### Other publications
-
-The demand of agricultural socialized services in smallholders’ farming： Evidence from the survey of a hundred of townships and ten thousands of households. Journal of Agro-Forestry Economics and Management 18(6): 795-802. (In Chinese)
-
-Property right reform of rural collective operational assets: Current situation, process and influence. Rural Economy 12: 1-10. (In Chinese)
-
-#### Working papers
-
-Land reform and health endowments at birth. Under review.
-
-Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market. Ready to submit.
-
-The impact of of poverty alleviation relocation program on women’s economic autonomy. Working paper.
-
-The impact of of poverty alleviation relocation program on biodiversity. In progress.
-
-
+</body>
+</html>
