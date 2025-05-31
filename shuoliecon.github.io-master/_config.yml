@@ -1,0 +1,45 @@
+collections:
+  homepage:
+    output: true
+    sort_by: date
+    permalink: /:path:output_ext
+  CV:
+    output: true
+    sort_by: date
+  research:
+    output: true
+    sort_by: date
+  teaching:
+    output: true
+    sort_by: date
+collections_dir: pages
+defaults:
+  - values:
+      layout: "default"
+      language: en
+      no_lang_link: true
+  - scope:
+      type: "posts"
+    values:
+      permalink: /news/:title.html
+exclude:
+  - maintenance/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - "*.less"
+  - "*.psd"
+kramdown:
+  syntax_highlighter_opts:
+    css_class: "highlight"
+markdown: kramdown
+name: Shuo Li
+plugins:
+  - jekyll-sitemap
+  - jekyll-sass-converter
+timezone: Asia/Hong Kong
+title: Shuo Li's Website
+url: #url
