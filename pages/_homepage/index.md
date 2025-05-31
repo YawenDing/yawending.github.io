@@ -8,7 +8,7 @@ no_heading: true
 <div class="site-personal-heading" markdown="1">
 ![]({{ "/assets/images/profile.jpg" | relative_url }})
 
-## Shuo Li
+## Yawen Ding
 
 Post-doctoral Fellow
 </div>
