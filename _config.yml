@@ -36,10 +36,10 @@ kramdown:
   syntax_highlighter_opts:
     css_class: "highlight"
 markdown: kramdown
-name: Shuo Li
+name: Yawen Ding
 plugins:
   - jekyll-sitemap
   - jekyll-sass-converter
 timezone: Asia/Hong Kong
-title: Shuo Li's Website
+title: Yawen Ding's Website
 url: #url
