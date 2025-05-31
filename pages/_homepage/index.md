@@ -10,7 +10,7 @@ no_heading: true
 
 ## Yawen Ding
 
-Post-doctoral Fellow
+Assistant Professor
 </div>
 <div class="site-personal-info" markdown="1">
 - <span class="icon icon-office"></span> HKU Business School
