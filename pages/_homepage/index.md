@@ -6,7 +6,7 @@ no_heading: true
 <div class="row">
 <div class="col-md-4" markdown="1">
 <div class="site-personal-heading" markdown="1">
-![]({{ "/assets/images/ywding1.jpg" | relative_url }})
+![]({{ "/assets/images/ywding2.jpg" | relative_url }})
 
 ## Yawen Ding
 
