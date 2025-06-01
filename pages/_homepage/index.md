@@ -6,22 +6,22 @@ no_heading: true
 <div class="row">
 <div class="col-md-4" markdown="1">
 <div class="site-personal-heading" markdown="1">
-![]({{ "/assets/images/ywding2.jpg" | relative_url }})
+![]({{ "/assets/images/ywding1.jpg" | relative_url }})
 
 ## Yawen Ding
 
 Assistant Professor
 </div>
 <div class="site-personal-info" markdown="1">
-- <span class="icon icon-office"></span> HKU Business School
-- <span class="icon icon-mail"></span> [shuoli@hku.hk](mailto:shuoli@hku.hk) 
+- <span class="icon icon-office"></span> School of Economics and Management
+- <span class="icon icon-mail"></span> [ywding@tongji.edu.cn](mailto:ywding@tongji.edu.cn) 
 </div>
 </div>
 <div class="col-md-8" markdown="1">
 
 ## About Me
 
-I am an applied microeconomist working on environmental, health, and development issues. I have been a post-doctoral fellow in the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/) since August 2022. 
+I am an applied microeconomist working on environmental, health, and development issues. I have been a post-doctoral fellow in the [School of Economics and Management](https://sem.tongji.edu.cn/semch/) at the [Tongji University](https://www.tongji.edu.cn/) since September 2024. 
 
 I am on the 2024-25 academic job market.
 
