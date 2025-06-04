@@ -14,8 +14,8 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 <table class="homepage-table">
   <tbody>
     <tr>
-      <td valign="baseline" width="220"><ul><li>Aug 2022 –</li></ul></td>
-      <td valign="baseline">Post-doctoral Fellow, Faculty of Business and Economics, The University of Hong Kong (Supervisor: <a href="https://www.guojunhe.com/">Prof. Guojun He</a>)</td>
+      <td valign="baseline" width="220"><ul><li>Sep 2024 –</li></ul></td>
+      <td valign="baseline">Assistant Professor, School of Economics and Management, Tongji University
     </tr>
   </tbody>
 </table>
