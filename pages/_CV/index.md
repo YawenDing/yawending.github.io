@@ -15,7 +15,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
   <tbody>
     <tr>
       <td valign="baseline" width="220"><ul><li>Sep 2024 –</li></ul></td>
-      <td valign="baseline">Assistant Professor, School of Economics and Management, Tongji University
+      <td valign="baseline">Assistant Professor, School of Economics and Management, Tongji University</td>
     </tr>
   </tbody>
 </table>
@@ -50,7 +50,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
   <tbody>
     <tr>
       <td valign="baseline" width="140"><ul><li>2019-2024</li></ul></td>
-      <td valign="baseline">Ph.D, Management, Peking University (Supervisor: <a href="http://ccap.pku.edu.cn/yjtd/szdw/4946.htm">Prof. Xiaobing Wang</a>)
+      <td valign="baseline">Ph.D, Management, Peking University (Supervisor: <a href="http://ccap.pku.edu.cn/yjtd/szdw/4946.htm">Prof. Xiaobing Wang</a>)</td>
     </tr>
     <tr>
       <td valign="baseline"><ul><li>2013-2017</li></ul></td>
