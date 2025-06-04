@@ -14,8 +14,8 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 <table class="homepage-table">
   <tbody>
     <tr>
-      <td valign="baseline" width="220"><ul><li>Sep 2024 –</li></ul></td>
-      <td valign="baseline">Assistant Professor, School of Economics and Management, Tongji University</td>
+      <td valign="baseline" width="220"><ul><li>Sept 2024 –</li></ul></td>
+      <td valign="baseline">Assistant Professor, Department of Public Administration, School of Economics and Management, Tongji University</td>
     </tr>
   </tbody>
 </table>
@@ -27,18 +27,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
     <tr>
       <td valign="baseline" width="220"><ul><li>Sept 2020 – Jun 2021</li></ul></td>
       <td valign="baseline">Short-term Consultant, World Bank (Supervisor: <a href="https://blogs.worldbank.org/en/team/m/marcin-piatkowski">Prof. Marcin Piatkowski</a>)</td>
-    </tr>
-    <tr>
-      <td valign="baseline"><ul><li>Feb 2020 – Jan 2021</li></ul></td>
-      <td valign="baseline">Postgraduate Fellow, School of Public Health, Yale University (Supervisor: <a href="https://ysph.yale.edu/profile/xi-chen/">Prof. Xi Chen</a>)</td>
-    </tr>
-    <tr>
-      <td valign="baseline"><ul><li>Sept 2016 – Jul 2017</li></ul></td>
-      <td valign="baseline">Pre-doctoral Fellow, Environmental Research Center, Duke Kunshan University (Supervisor: <a href="https://sites.nicholas.duke.edu/junjiezhang/">Prof. Junjie Zhang</a>)</td>
-    </tr>
-    <tr>
-      <td valign="baseline"><ul><li>Jul 2017 – Oct 2017</li></ul></td>
-      <td valign="baseline">(Remote) Research Assistant, The Hong Kong Polytechnic University (Supervisor: <a href="https://pengzhang.weebly.com">Prof. Peng Zhang</a>)</td>
+    </tr>    
     </tr>
   </tbody>
 </table>
@@ -53,12 +42,8 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
       <td valign="baseline">Ph.D, Management, Peking University (Supervisor: <a href="http://ccap.pku.edu.cn/yjtd/szdw/4946.htm">Prof. Xiaobing Wang</a>)</td>
     </tr>
     <tr>
-      <td valign="baseline"><ul><li>2013-2017</li></ul></td>
-      <td valign="baseline">B.A., Economics, Shandong University</td>
-    </tr>
-    <tr>
-      <td valign="baseline"><ul><li>2013-2017</li></ul></td>
-      <td valign="baseline">B.S., Mathematics (minor), Shandong University</td>
+      <td valign="baseline"><ul><li>2015-2019</li></ul></td>
+      <td valign="baseline">B.A., Management, China Agricultural University</td>
     </tr>
   </tbody>
 </table>
@@ -79,8 +64,8 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 
 ## Referee Services
 
-- Journal of Environmental Economics and Management
-- China Economic Review (4)
-- China Economic Quarterly International
-- 经济学（季刊）/ China Economic Quarterly (20+)
-- 世界经济 / The Journal of World Economy (2)
+- World Development
+- China Economic Review
+- Australian Journal of Agricultural and Resource Economics
+- Journal of Contemporary China
+- Journal of Chinese Economic and Business Studies
