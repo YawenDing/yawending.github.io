@@ -21,7 +21,7 @@ no_heading: true
 </li>
 
 <li>
-    "<a href="https://onlinelibrary.wiley.com/doi/10.1111/rode.12865?af=R"targe="_black" rel="noopener"><b>Does rubber expansion hinder the migration of rural labor? Evidence from southwest China</b></a>" (with Ningan Yang, Shi Min, Junfei Bai). <i>Review of Development Economics</i>, 2022, 26(2): 1108-1131.
+    "<a href="https://onlinelibrary.wiley.com/doi/10.1111/rode.12865?af=R" targe="_black" rel="noopener"><b>Does rubber expansion hinder the migration of rural labor? Evidence from southwest China</b></a>" (with Ningan Yang, Shi Min, Junfei Bai). <i>Review of Development Economics</i>, 2022, 26(2): 1108-1131.
 </li>
 
 </ol>
@@ -34,7 +34,9 @@ no_heading: true
     "<b>The demand for socialized agricultural services in smallholder farming: Evidence from the survey of a hundred townships and ten thousand households</b>" (with Shi Min, Xiaobing Wang, Yushan Wang). <i>Journal of Agro-Forestry Economics and Management</i>, 2019, 18(6): 795-802.
 </li>
 
-<li>"<b>Property right reform of rural collective operational assets: Current situation, process, and influence</b>" (with Jikun Huang, Kangli Li, Xiaobing Wang). <i>Rural Economy</i>, 2019, 12: 1-10.</li>
+<li>
+    "<b>Property right reform of rural collective operational assets: Current situation, process, and influence</b>" (with Jikun Huang, Kangli Li, Xiaobing Wang). <i>Rural Economy</i>, 2019, 12: 1-10.
+</li>
 
 </ol>
 
