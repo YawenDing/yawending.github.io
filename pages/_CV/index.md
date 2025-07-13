@@ -21,16 +21,6 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 </table>
 
 
-#### Previous Academic Positions
-<table class="homepage-table">
-  <tbody>
-    <tr>
-      <td valign="baseline" width="220"><ul><li>Sept 2020 – Jun 2021</li></ul></td>
-      <td valign="baseline">Short-term Consultant, World Bank (Supervisor: <a href="https://blogs.worldbank.org/en/team/m/marcin-piatkowski">Prof. Marcin Piatkowski</a>)</td>
-    </tr>    
-    </tr>
-  </tbody>
-</table>
 
  
 ## Education
