@@ -8,7 +8,9 @@ no_heading: true
 
 <ol>
 
-<li>"<b>Land reform and health endowments at birth</b>" (with Xiaobing Wang, Huayu Xu). <i>Journal of Comparative Economics</i>, 2025, 53(1): 79-95.</li>
+<li>
+  "<a href="https://www.sciencedirect.com/science/article/abs/pii/S014759672400060X" target="_blank" rel="noopener"><b>Land reform and health endowments at birth</b></a>" (with Xiaobing Wang, Huayu Xu). <i>Journal of Comparative Economics</i>, 2025, 53(1): 79–95.
+</li>
 
 <li>"<b>Catch up with my husband as I can: Women’s decision-making power consequences of China’s poverty alleviation relocation program</b>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>World Development</i>, 2024, 173: 106433.</li>
 
