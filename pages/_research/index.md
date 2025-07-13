@@ -15,11 +15,13 @@ no_heading: true
 <li>"<b>Memory of famine: The persistent impact of famine experience on food waste behavior</b>" (with Shi Min, Xiaobing Wang, Xiaohua Yu). <b>China Economic Review</b>, 2022, 73: 101795.
 
 <li>"<b>Does rubber expansion hinder the migration of rural labor? Evidence from southwest China</b>" (with Ningan Yang, Shi Min, Junfei Bai). <b>Review of Development Economics</b>, 2022, 26(2): 1108-1131.
+
 </ol>
 
 ## Publication in Chinese
 
 <ol>
+
 <li>"<b>The demand for socialized agricultural services in smallholder farming: Evidence from the survey of a hundred townships and ten thousand households</b>" (with Shi Min, Xiaobing Wang, Yushan Wang). <b>Journal of Agro-Forestry Economics and Management</b>, 2019, 18(6): 795-802.
 
 <li>"<b>Property right reform of rural collective operational assets: Current situation, process, and influence</b>" (with Jikun Huang, Kangli Li, Xiaobing Wang). <b>Rural Economy</b>, 2019, 12: 1-10.
