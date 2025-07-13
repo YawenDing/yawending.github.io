@@ -9,10 +9,12 @@ no_heading: true
 <ol>
 
 <li>
-  "<a href="https://www.sciencedirect.com/science/article/abs/pii/S014759672400060X" target="_blank" rel="noopener"><b>Land reform and health endowments at birth</b></a>" (with Xiaobing Wang, Huayu Xu). <i>Journal of Comparative Economics</i>, 2025, 53(1): 79–95.
+    "<a href="https://www.sciencedirect.com/science/article/abs/pii/S014759672400060X" target="_blank" rel="noopener"><b>Land reform and health endowments at birth</b></a>" (with Xiaobing Wang, Huayu Xu). <i>Journal of Comparative Economics</i>, 2025, 53(1): 79–95.
 </li>
 
-<li>"<b>Catch up with my husband as I can: Women’s decision-making power consequences of China’s poverty alleviation relocation program</b>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>World Development</i>, 2024, 173: 106433.</li>
+<li>
+    "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0305750X23002516" targe="_black" rel="noopener"><b>Catch up with my husband as I can: Women’s decision-making power consequences of China’s poverty alleviation relocation program</b></a>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>World Development</i>, 2024, 173: 106433.
+</li>
 
 <li>"<b>Memory of famine: The persistent impact of famine experience on food waste behavior</b>" (with Shi Min, Xiaobing Wang, Xiaohua Yu). <i>China Economic Review</i>, 2022, 73: 101795.</li>
 
