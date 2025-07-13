@@ -8,19 +8,6 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 
 ---
 
-## Professional experience
-
-#### Current Academic Positions
-<table class="homepage-table">
-  <tbody>
-    <tr>
-      <td valign="baseline" width="220"><ul><li>Sept 2024 –</li></ul></td>
-      <td valign="baseline">Assistant Professor, Department of Public Administration, School of Economics and Management, Tongji University</td>
-    </tr>
-  </tbody>
-</table>
-
-
 
  
 ## Education
@@ -32,6 +19,10 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
       <td valign="baseline">Ph.D, Management, Peking University (Supervisor: <a href="http://ccap.pku.edu.cn/yjtd/szdw/4946.htm">Prof. Xiaobing Wang</a>)</td>
     </tr>
     <tr>
+      <td valign="baseline"><ul><li>2023</li></ul></td>
+      <td valign="baseline">Visiting student at IQS School of Management</td>
+    </tr>
+    <tr>
       <td valign="baseline"><ul><li>2015-2019</li></ul></td>
       <td valign="baseline">B.A., Management, China Agricultural University</td>
     </tr>
@@ -39,23 +30,22 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Shuo_Li_CV.pdf"
 </table>
 
 
-## Fellowships and Awards
+## Awards
 
-- (Inaugural) Best Doctoral Dissertation Award, The 3rd Annual Conference of the Chinese Association of Environmental and Resource Economists, 2024
-- Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024
-- Excellent Paper Award, The 7th China Health Economic Development Forum, 2024
-- Excellent Paper Award, The 6th China Health Economic Development Forum, 2023 
-- CES Best Student Paper Award, Chinese Economist Society, 2022
-- Excellent Research Award, Peking University, 2019
-- Excellent Teaching Assistant Award, Peking University, 2018
-- Outstanding Graduate of Shandong Province, Shandong University, 2017
-- National Scholarship, Shandong University, 2014 & 2015
+- 2024: Excellent Paper Award of Tsinghua Rural Studies PhD Forum, Outstanding Graduate of Peking University
+- 2023: Second Prize of the Best Paper Award at the 11th Asian Society of Agricultural Economists (ASAE) International Conference
+- 2022: May Fourth Scholarship of Peking University, Merit Student of Peking University
+- 2021: Best Presentation Award at the 1st Sino-German Junior Researcher Conference on Agricultural and Resource Economics, Excellent Research Award of Peking University
+- 2020: Second-Class Scholarship of Peking University, Excellent Study Award of Peking University
+- 2019: Outstanding Graduate of China Agricultural University
+
+
 
 
 ## Referee Services
 
-- World Development
-- China Economic Review
+- World Development (×3)
+- China Economic Review(×2)
 - Australian Journal of Agricultural and Resource Economics
 - Journal of Contemporary China
 - Journal of Chinese Economic and Business Studies
