@@ -31,6 +31,7 @@ no_heading: true
 ## Working Papers
 
 <ol>
+
 <li>"<b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b>" (with Qihui Chen, Xiaobing Wang). 2nd round Revise & Resubmit at <b>Journal of Economic Behavior & Organization.</b>
 
 <li>"<b>Women as breadwinners: A multifaceted relocation program and women’s labor market outcomes</b>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). 1st round Revise & Resubmit at <b>Labour Economics</b>.
@@ -38,7 +39,7 @@ no_heading: true
 <li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Under review at <b>Journal of Development Economics</b>.
 
 <li>"<b>Building health care capacity: Evidence from a large-scale training campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Draft completed.
+
 <li>"<b>How to manage my left-behind farmland: The impact of China’s poverty alleviation relocation program on household farmland abandonment</b>" (with Xinyuan Lei, Huanguang Qiu). Draft Completed.
 
 </ol>
-
