@@ -32,7 +32,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Yawen_CV_Tongji
 
 ## Awards
 
-- 2024: Excellent Paper Award of Tsinghua Rural Studies PhD Forum, Outstanding Graduate of Peking University
+- 2024: Best Paper Award of the 22nd Yangtze River Delta Rural Forum, Excellent Paper Award of Tsinghua Rural Studies PhD Forum, Outstanding Graduate of Peking University
 - 2023: Second Prize of the Best Paper Award at the 11th Asian Society of Agricultural Economists (ASAE) International Conference
 - 2022: May Fourth Scholarship of Peking University, Merit Student of Peking University
 - 2021: Best Presentation Award at the 1st Sino-German Junior Researcher Conference on Agricultural and Resource Economics, Excellent Research Award of Peking University
