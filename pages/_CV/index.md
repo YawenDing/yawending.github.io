@@ -45,8 +45,8 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Yawen_CV_Tongji
 ## Referee Services
 
 - World Development (×3)
-- China Economic Review(×2)
+- China Economic Review (×2)
+- Australian Journal of Agricultural and Resource Economics (×2)
 - China Agricultural Economic Review
-- Australian Journal of Agricultural and Resource Economics
 - Journal of Contemporary China
 - Journal of Chinese Economic and Business Studies
