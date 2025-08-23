@@ -48,7 +48,7 @@ no_heading: true
 
 <li>"<b>Women as breadwinners: A multifaceted relocation program and women’s labor market outcomes</b>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). 1st round Revise & Resubmit at <i>Labour Economics</i>.</li>
 
-<li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Under review at <i>Journal of Development Economics</i>.</li>
+<li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Revision Request at <i>Journal of Development Economics</i>.</li>
 
 <li>"<b>Building health care capacity: Evidence from a large-scale training campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Draft completed.</li>
 
