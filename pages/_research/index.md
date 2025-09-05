@@ -62,7 +62,7 @@ no_heading: true
 ## Fundings
 
 <ol>
-<li>"<b>National Natural Science Foundation of China</b>" (Host, Time Period: 2026.01-2028.12).</li>
+<li><b>National Natural Science Foundation of China</b>. Host, Time Period: 2026.01-2028.12.</li>
 
 </ol>
 
