@@ -9,6 +9,9 @@ no_heading: true
 <ol>
 
 <li>
+    "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927537125001083" target="_blank" rel="noopener"><b>Women as breadwinners: A multifaceted relocation program and women’s labour market outcomes</b></a>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>Labour Economics</i>, 2025, 102784.
+
+<li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S014759672400060X" target="_blank" rel="noopener"><b>Land reform and health endowments at birth</b></a>" (with Xiaobing Wang, Huayu Xu). <i>Journal of Comparative Economics</i>, 2025, 53(1): 79–95.
 </li>
 
@@ -46,12 +49,11 @@ no_heading: true
 
 <li>"<b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b>" (with Qihui Chen, Xiaobing Wang). 2nd round Revise & Resubmit at <i>Journal of Economic Behavior & Organization</i>.</li>
 
-<li>"<b>Women as breadwinners: A multifaceted relocation program and women’s labor market outcomes</b>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). 1st round Revise & Resubmit at <i>Labour Economics</i>.</li>
 
 <li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Revision Request at <i>Journal of Development Economics</i>.</li>
 
-<li>"<b>Building health care capacity: Evidence from a large-scale training campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Draft completed.</li>
+<li>"<b>Building health care capacity: Evidence from a large-scale training campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
-<li>"<b>How to manage my left-behind farmland: The impact of China’s poverty alleviation relocation program on household farmland abandonment</b>" (with Xinyuan Lei, Huanguang Qiu). Draft Completed.</li>
+<li>"<b>Relocation and cropland use consequences: Evidence from a nationwide poverty alleviation relocation program</b>" (with Xinyuan Lei, Huanguang Qiu). Draft Completed.</li>
 
 </ol>
