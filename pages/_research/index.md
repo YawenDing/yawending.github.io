@@ -33,13 +33,12 @@ no_heading: true
 ## Publications in Chinese
 
 <ol>
-
 <li>
-    "<b>The demand for socialized agricultural services in smallholder farming: Evidence from the survey of a hundred townships and ten thousand households</b>" (with Shi Min, Xiaobing Wang, Yushan Wang). <i>Journal of Agro-Forestry Economics and Management</i>, 2019, 18(6): 795-802.
+    "<b>Property right reform of rural collective operational assets: Current situation, process, and influence</b>" (with Jikun Huang, Kangli Li, Xiaobing Wang). <i>Rural Economy</i>, 2019, 12: 1-10.
 </li>
 
 <li>
-    "<b>Property right reform of rural collective operational assets: Current situation, process, and influence</b>" (with Jikun Huang, Kangli Li, Xiaobing Wang). <i>Rural Economy</i>, 2019, 12: 1-10.
+    "<b>The demand for socialized agricultural services in smallholder farming: Evidence from the survey of a hundred townships and ten thousand households</b>" (with Shi Min, Xiaobing Wang, Yushan Wang). <i>Journal of Agro-Forestry Economics and Management</i>, 2019, 18(6): 795-802.
 </li>
 
 </ol>
