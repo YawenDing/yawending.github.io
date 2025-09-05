@@ -4,7 +4,7 @@ title: Research
 no_heading: true
 ---
 
-## Publication in English
+## Publications in English
 
 <ol>
 
@@ -30,7 +30,7 @@ no_heading: true
 
 </ol>
 
-## Publication in Chinese
+## Publications in Chinese
 
 <ol>
 
@@ -58,3 +58,10 @@ no_heading: true
 <li>"<b>Relocation and cropland use consequences: Evidence from a nationwide poverty alleviation relocation program</b>" (with Xinyuan Lei, Huanguang Qiu). Draft Completed.</li>
 
 </ol>
+
+
+## Fundings
+
+<ol>
+<li>"<b>National Natural Science Foundation of China</b>" (Host, Time Period: 2026.01-2028.12).</li>
+
