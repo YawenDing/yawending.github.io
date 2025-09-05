@@ -10,6 +10,8 @@ no_heading: true
 
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927537125001083" target="_blank" rel="noopener"><b>Women as breadwinners: A multifaceted relocation program and women’s labour market outcomes</b></a>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>Labour Economics</i>, 2025, 102784.
+ </li>
+   
 
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S014759672400060X" target="_blank" rel="noopener"><b>Land reform and health endowments at birth</b></a>" (with Xiaobing Wang, Huayu Xu). <i>Journal of Comparative Economics</i>, 2025, 53(1): 79–95.
