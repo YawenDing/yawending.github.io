@@ -54,7 +54,7 @@ no_heading: true
 
 <li>"<b>Building health care capacity: Evidence from a large-scale training campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
-<li>"<b>Relocation and cropland use consequences: Evidence from a nationwide poverty alleviation relocation program</b>" (with Xinyuan Lei, Huanguang Qiu). Draft Completed.</li>
+<li>"<b>Cropland use consequences of a nationwide poverty alleviation relocation program in China</b>" (with Xinyuan Lei, Huanguang Qiu). Draft Completed.</li>
 
 </ol>
 
