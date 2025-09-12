@@ -21,7 +21,7 @@ Assistant Professor
 
 ## About Me
 
-I am an applied economist with research interests in poverty alleviation, labor markets, early childhood development, women’s empowerment, and other key issues in development economics. A large fraction of my work focuses on one of China’s large-scale Moving to Opportunity programs—the Poverty Alleviation Relocation Program—which relocated approximately 9.6 million impoverish individuals from mountainous and remote areas during 2016-2020.
+I am an applied economist with research interests in poverty alleviation, labor markets, early childhood development, women’s empowerment, and other key issues in development economics. A large fraction of my work focuses on one of China’s large-scale Moving to Opportunity programs—the Poverty Alleviation Relocation Program—which relocated approximately 9.6 million impoverished individuals from mountainous and remote areas during 2016-2020.
 
 Since September 2024, I have been serving as an Assistant Professor in the [School of Economics and Management](https://sem.tongji.edu.cn/semch/) at the [Tongji University](https://www.tongji.edu.cn/). I am also a member of the Youth Committee of the China Agricultural Economics Association.
 
