@@ -46,7 +46,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Yawen_CV_Tongji
 
 - World Development (×3)
 - China Economic Review (×2)
-- Australian Journal of Agricultural and Resource Economics (×2)
+- Australian Journal of Agricultural and Resource Economics (×3)
 - China Agricultural Economic Review
 - Journal of Contemporary China
 - Journal of Chinese Economic and Business Studies
