@@ -7,7 +7,7 @@ no_heading: true
 ## Publications in English
 
 <ol>
-
+<li>"<b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b>" (with Qihui Chen, Xiaobing Wang). Accepted by <i>Journal of Economic Behavior & Organization</i>.</li>
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927537125001083" target="_blank" rel="noopener"><b>Women as breadwinners: A multifaceted relocation program and women’s labour market outcomes</b></a>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>Labour Economics</i>, 2025, 102784.
  </li>   
@@ -47,7 +47,7 @@ no_heading: true
 
 <ol>
 
-<li>"<b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b>" (with Qihui Chen, Xiaobing Wang). 2nd round Revise & Resubmit at <i>Journal of Economic Behavior & Organization</i>.</li>
+
 
 
 <li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Revision Request at <i>Journal of Development Economics</i>.</li>
