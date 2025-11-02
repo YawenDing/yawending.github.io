@@ -4,7 +4,7 @@ title: Contact
 no_heading: true
 ---
 
-## This column is for my dad's poems.
+## This column is dedicated to recording the poems written by my father.
 
 **北曲双调·得胜令·九三阅兵感怀**   
 赤帜卷西风，银翼掠长空。  
