@@ -7,7 +7,9 @@ no_heading: true
 ## Publications in English
 
 <ol>
-<li>"<b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b>" (with Qihui Chen, Xiaobing Wang). <i>Journal of Economic Behavior & Organization</i>. Accepted.</li>
+<li>
+"<a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812500407X"
+target="_blank" rel="noopener"><b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b></a>" (with Qihui Chen, Xiaobing Wang). <i>Journal of Economic Behavior & Organization</i>，2025，107290.</li>
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927537125001083" target="_blank" rel="noopener"><b>Women as breadwinners: A multifaceted relocation program and women’s labour market outcomes</b></a>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>Labour Economics</i>, 2025, 102784.
  </li>   
@@ -54,7 +56,7 @@ no_heading: true
 
 <li>"<b>Building health care capacity: Evidence from a large-scale training campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
-<li>"<b>Cropland use consequences of a nationwide poverty alleviation relocation program in China</b>" (with Xinyuan Lei, Huanguang Qiu). Draft Completed.</li>
+<li>"<b>Cropland use consequences of a nationwide poverty alleviation relocation program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Submitted.</li>
 
 </ol>
 
