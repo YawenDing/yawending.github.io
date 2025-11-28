@@ -32,6 +32,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Yawen_CV_Tongji
 
 ## Awards
 
+- 2025: Excellent Paper Award of the 23rd Yangtze River Delta Rural Forum
 - 2024: Best Paper Award of the 22nd Yangtze River Delta Rural Forum, Excellent Paper Award of Tsinghua Rural Studies PhD Forum, Outstanding Graduate of Peking University
 - 2023: Second Prize of the Best Paper Award at the 11th Asian Society of Agricultural Economists (ASAE) International Conference
 - 2022: May Fourth Scholarship of Peking University, Merit Student of Peking University
