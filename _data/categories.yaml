@@ -9,7 +9,10 @@ research:
   link: /research/
 My Cat:
   en: My Cat
-  link: /teaching/
+  link: /cat/
 Poems:
   en: Poems
   link: /dad/
+Survey:
+  en: Survey
+  link: /survey/
