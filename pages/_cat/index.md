@@ -10,22 +10,22 @@ This is my cat, Jingjing (Whale). He is a Ragdoll, born in October 2021. His nam
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <img src="{{ '/assets/images/jingjing4.jpg' | relative_url }}" alt="Jingjing 1"
-       style="width: 22%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+       style="width: 22%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;">
   <img src="{{ '/assets/images/jingjing7.jpg' | relative_url }}" alt="Jingjing 7"
-       style="width: 22%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+       style="width: 22%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;">
   <img src="{{ '/assets/images/jingjing3.jpg' | relative_url }}" alt="Jingjing 3"
-       style="width: 22%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+       style="width: 22%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;">
   <img src="{{ '/assets/images/jingjing1.jpg' | relative_url }}" alt="Jingjing 4"
-       style="width: 22%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+       style="width: 22%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 14px;">
   <img src="{{ '/assets/images/jingjing2.jpg' | relative_url }}" alt="Jingjing 2"
-       style="width: 22%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+       style="width: 22%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;">
   <img src="{{ '/assets/images/jingjing5.jpg' | relative_url }}" alt="Jingjing 5"
-       style="width: 22%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+       style="width: 22%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;">
   <img src="{{ '/assets/images/jingjing6.jpg' | relative_url }}" alt="Jingjing 6"
-       style="width: 22%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+       style="width: 22%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;">
   <img src="{{ '/assets/images/jingjing8.jpg' | relative_url }}" alt="Jingjing 8"
-       style="width: 22%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+       style="width: 22%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;">
 </div>
