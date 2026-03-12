@@ -51,3 +51,4 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Yawen_CV_Tongji
 - China Agricultural Economic Review
 - Journal of Contemporary China
 - Journal of Chinese Economic and Business Studies
+- 中国农村观察
