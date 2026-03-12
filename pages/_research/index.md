@@ -54,7 +54,7 @@ target="_blank" rel="noopener"><b>Windfall gains and household consumption: Regr
 <li>"<b>Cropland use consequences of a nationwide poverty alleviation relocation program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Revise & Resubmit at <i>Food Policy</i>.</li>
 
 
-<li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Revision Request at <i>Journal of Development Economics</i>.</li>
+<li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Revise & Resubmit at <i>Journal of Development Economics</i>.</li>
 
 
 <li>"<b>Training Midwives Saves Lives: Evidence from China’s New
