@@ -61,6 +61,9 @@ target="_blank" rel="noopener"><b>Windfall gains and household consumption: Regr
 Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
 
+<li>"<b>Survivors and Perpetrators: Poverty Alleviation and IPV in China</b>" (with Xiaobing Wang).</li>
+
+
 </ol>
 
 
