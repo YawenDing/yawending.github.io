@@ -57,7 +57,7 @@ no_heading: true
 Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
 <li>"<b>Nora's Departure: The Family Consequences of Poverty Relocation
-in Rural China</b>" (with Guo Shiqi, Qiu Huanguang, Zhang Jipeng). Draft Completed.</li>
+in Rural China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Completed.</li>
 
 
 <li>"<b>Survivors and Perpetrators: Poverty Alleviation and IPV in China</b>" (with Xiaobing Wang).</li>
