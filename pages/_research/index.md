@@ -7,9 +7,11 @@ no_heading: true
 ## Publications in English
 
 <ol>
+<li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Accepted at <i>Journal of Development Economics</i>.</li>
+
 <li>
-"<a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812500407X"
-target="_blank" rel="noopener"><b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b></a>" (with Qihui Chen, Xiaobing Wang). <i>Journal of Economic Behavior & Organization</i>，2025，107290.</li>
+    "<a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812500407X"
+    target="_blank" rel="noopener"><b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b></a>" (with Qihui Chen, Xiaobing Wang). <i>Journal of Economic Behavior & Organization</i>，2025，107290.</li>
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927537125001083" target="_blank" rel="noopener"><b>Women as breadwinners: A multifaceted relocation program and women’s labour market outcomes</b></a>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>Labour Economics</i>, 2025, 102784.
  </li>   
@@ -52,9 +54,6 @@ target="_blank" rel="noopener"><b>Windfall gains and household consumption: Regr
 
 
 <li>"<b>Cropland use consequences of a nationwide poverty alleviation relocation program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Revise & Resubmit at <i>Food Policy</i>.</li>
-
-
-<li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Revise & Resubmit at <i>Journal of Development Economics</i>.</li>
 
 
 <li>"<b>Training Midwives Saves Lives: Evidence from China’s New
