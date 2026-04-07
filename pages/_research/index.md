@@ -51,13 +51,13 @@ no_heading: true
 
 <ol>
 
-
-
-<li>"<b>Cropland use consequences of a nationwide poverty alleviation relocation program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Revise & Resubmit at <i>Food Policy</i>.</li>
-
+<li>"<b>Cropland Use Consequences of a Nationwide Poverty Alleviation Relocation Program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Revise & Resubmit at <i>Food Policy</i>.</li>
 
 <li>"<b>Training Midwives Saves Lives: Evidence from China’s New
 Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
+
+<li>"<b>Nora's Departure: The Family Consequences of Poverty Relocation
+in Rural China</b>" (with Guo Shiqi, Qiu Huanguang, Zhang Jipeng). Draft Completed.</li>
 
 
 <li>"<b>Survivors and Perpetrators: Poverty Alleviation and IPV in China</b>" (with Xiaobing Wang).</li>
