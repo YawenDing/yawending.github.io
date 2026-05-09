@@ -7,7 +7,8 @@ no_heading: true
 ## Publications in English
 
 <ol>
-<li>"<b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b>" (with Zihao Chen, Xu Tian). Accepted at <i>Journal of Development Economics</i>.</li>
+<li>"<a href="https://www.sciencedirect.com/science/article/pii/S0304387826000817"
+    target="_blank" rel="noopener"><b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b></a>" (with Zihao Chen, Xu Tian). <i>Journal of Development Economics</i>, 2026, 103798.</li>
 
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812500407X"
@@ -66,9 +67,9 @@ in Rural China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Complet
 
 <ol>
 
-<li>"<b>Poverty Alleviation and IPV</b>".</li>
+<li><b>Poverty Alleviation and IPV</b>.</li>
 
-<li>"<b>China's "10,000 enterprises helping 10,000 villages" campaign</b>".</li>
+<li><b>China's "10,000 enterprises helping 10,000 villages" campaign</b>.</li>
 
 </ol>
 
