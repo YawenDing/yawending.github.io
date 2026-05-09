@@ -66,6 +66,17 @@ in Rural China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Complet
 </ol>
 
 
+## Work in Progress
+
+<ol>
+
+<li>"<b>Poverty Alleviation and IPV</b>".</li>
+
+<li>"<b>China's "10,000 enterprises helping 10,000 villages" campaign</b>".</li>
+
+</ol>
+
+
 ## Fundings
 
 <ol>
