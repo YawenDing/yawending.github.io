@@ -8,14 +8,15 @@ no_heading: true
 
 <ol>
 <li>"<a href="https://www.sciencedirect.com/science/article/pii/S0304387826000817"
-    target="_blank" rel="noopener"><b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b></a>" (with Zihao Chen, Xu Tian). <i>Journal of Development Economics</i>, 2026, 103798.</li>
+    target="_blank" rel="noopener"><b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b></a>" (with Zihao Chen, Xu Tian). <i>Journal of Development Economics</i>, 2026, 103798.
+</li>
 
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812500407X"
     target="_blank" rel="noopener"><b>Windfall gains and household consumption: Regression discontinuity evidence from China’s housing market</b></a>" (with Qihui Chen, Xiaobing Wang). <i>Journal of Economic Behavior & Organization</i>，2025，107290.</li>
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927537125001083" target="_blank" rel="noopener"><b>Women as breadwinners: A multifaceted relocation program and women’s labour market outcomes</b></a>" (with Xiaobing Wang, de Brauw Alan, Huanguang Qiu). <i>Labour Economics</i>, 2025, 102784.
- </li>   
+</li>   
 
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S014759672400060X" target="_blank" rel="noopener"><b>Land reform and health endowments at birth</b></a>" (with Xiaobing Wang, Huayu Xu). <i>Journal of Comparative Economics</i>, 2025, 53(1): 79–95.
@@ -54,8 +55,7 @@ no_heading: true
 
 <li>"<b>Cropland Use Consequences of a Nationwide Poverty Alleviation Relocation Program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Revise & Resubmit at <i>Food Policy</i>.</li>
 
-<li>"<b>Training Midwives Saves Lives: Evidence from China’s New
-Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
+<li>"<b>"Upgrading Informal Providers at Scale: Evidence from China’s New Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
 <li>"<b>Nora's Departure: The Family Consequences of Poverty Relocation
 in Rural China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Completed.</li>
