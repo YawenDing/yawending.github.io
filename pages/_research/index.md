@@ -55,7 +55,7 @@ no_heading: true
 
 <li>"<b>Cropland Use Consequences of a Nationwide Poverty Alleviation Relocation Program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Revise & Resubmit at <i>Food Policy</i>.</li>
 
-<li>"<b>"Upgrading Informal Providers at Scale: Evidence from China’s New Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
+<li>"<b>Upgrading Informal Providers at Scale: Evidence from China’s New Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
 <li>"<b>Nora's Departure: The Family Consequences of Poverty Relocation
 in Rural China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Completed.</li>
