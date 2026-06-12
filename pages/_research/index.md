@@ -7,9 +7,15 @@ no_heading: true
 ## Publications in English
 
 <ol>
+
+<li>"<b>Cropland Use Consequences of a Nationwide Poverty Alleviation Relocation Program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Accepted at <i>Food Policy</i>.
+</li>
+
+
 <li>"<a href="https://www.sciencedirect.com/science/article/pii/S0304387826000817"
     target="_blank" rel="noopener"><b>The stalled quiet revolution: Population control, skewed sex ratios, and the widening gender gap in labor force participation</b></a>" (with Zihao Chen, Xu Tian). <i>Journal of Development Economics</i>, 2026, 103798.
 </li>
+
 
 <li>
     "<a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812500407X"
@@ -53,8 +59,6 @@ no_heading: true
 
 <ol>
 
-<li>"<b>Cropland Use Consequences of a Nationwide Poverty Alleviation Relocation Program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Revise & Resubmit at <i>Food Policy</i>.</li>
-
 <li>"<b>Upgrading Informal Providers at Scale: Evidence from China’s New Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
 <li>"<b>Nora's Departure: The Family Consequences of Poverty Relocation
@@ -66,6 +70,8 @@ in Rural China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Complet
 ## Work in Progress
 
 <ol>
+
+<li><b>Agricultural Mechanization and Gender Gap in the Labor Market</b>.</li>
 
 <li><b>Poverty Alleviation and IPV</b>.</li>
 
