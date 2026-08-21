@@ -1,6 +1,6 @@
 ---
 language: en
-title: Contact
+title: Survey Photos
 no_heading: true
 ---
 

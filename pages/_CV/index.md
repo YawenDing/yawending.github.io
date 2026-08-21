@@ -1,6 +1,6 @@
 ---
 language: en
-title: Homepage
+title: CV
 no_heading: true
 ---
 

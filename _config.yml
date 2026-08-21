@@ -18,9 +18,6 @@ collections:
   dad:
     output: true
     sort_by: date
-  survey:
-    output: true
-    sort_by: date
 collections_dir: pages
 defaults:
   - values:

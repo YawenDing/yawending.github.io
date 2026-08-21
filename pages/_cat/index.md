@@ -1,6 +1,6 @@
 ---
 language: en
-title: Contact
+title: My Cat
 no_heading: true
 ---
 
