@@ -8,7 +8,7 @@ no_heading: true
 
 <ol>
 
-<li>"<b>Cropland Use Consequences of a Nationwide Poverty Alleviation Relocation Program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). Accepted at <i>Food Policy</i>.
+<li>"<b>Cropland Use Consequences of a Nationwide Poverty Alleviation Relocation Program in China</b>" (with Xinyuan Lei, Xiangwen Kong, Huanguang Qiu). <i>Food Policy</i>, 2026, 103133.
 </li>
 
 
@@ -61,8 +61,10 @@ no_heading: true
 
 <li>"<b>Upgrading Informal Providers at Scale: Evidence from China’s New Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
-<li>"<b>Nora's Departure: The Family Consequences of Poverty Relocation
-in Rural China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Completed.</li>
+<li>"<b>Relocation and Marital Stability: Evidence from a Large-Scale
+Relocation Program in China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Completed.</li>
+
+<li>"<b>Women Left Behind: Agricultural Mechanization and the Gender Gap in Labor Force Participation in Rural China</b>" (with Ping Xue, Xiaobing Wang). Draft Completed.</li>
 
 </ol>
 
@@ -70,8 +72,6 @@ in Rural China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Complet
 ## Work in Progress
 
 <ol>
-
-<li><b>Agricultural Mechanization and Gender Gap in the Labor Market</b>.</li>
 
 <li><b>Poverty Alleviation and IPV</b>.</li>
 
