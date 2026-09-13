@@ -61,10 +61,10 @@ no_heading: true
 
 <li>"<b>Upgrading Informal Providers at Scale: Evidence from China’s New Midwifery Campaign</b>" (with Achyuta Adhvaryu, Huayu Xu, Qiong Zhang). Submitted.</li>
 
+<li>"<b>Agricultural Mechanization, Labor Reallocation, and the Gender Gap in Rural China</b>" (with Ping Xue, Xiaobing Wang). Submitted.</li>
+
 <li>"<b>Relocation and Marital Stability: Evidence from a Large-Scale
 Relocation Program in China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Completed.</li>
-
-<li>"<b>Women Left Behind: Agricultural Mechanization and the Gender Gap in Labor Force Participation in Rural China</b>" (with Ping Xue, Xiaobing Wang). Draft Completed.</li>
 
 </ol>
 
