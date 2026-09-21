@@ -66,6 +66,8 @@ no_heading: true
 <li>"<b>Relocation and Marital Stability: Evidence from a Large-Scale
 Relocation Program in China</b>" (with Shiqi Guo, Huanguang Qiu, Jipeng Zhang). Draft Completed.</li>
 
+<li>"<b>Technology Sanctions and Talent Allocation</b>" (with Xiao Li, Wenhua Liu, Huayu Xu). Working Paper.</li>
+
 </ol>
 
 
