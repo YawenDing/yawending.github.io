@@ -52,6 +52,7 @@ You can also download a PDF copy of my CV [here]({{ "/assets/pdf/Yawen_CV_Tongji
 - Australian Journal of Agricultural and Resource Economics (×3)
 - Journal of Rural Studies
 - China Agricultural Economic Review
+- International Food and Agribusiness Management Review (IFAMR)
 - Journal of Contemporary China
 - Journal of Chinese Economic and Business Studies
 - 中国农村观察 (×2)
